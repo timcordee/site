@@ -1,2 +1,4 @@
 # logbook
-My logbook for work in progress
+Site of cordee, created with static .md files and hosted on github.
+
+## Let's give it a try
