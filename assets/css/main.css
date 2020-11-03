@@ -2829,7 +2829,7 @@ input, select, textarea {
 /* Header */
 
 	#header {
-		padding: 8em 0 0.1em 0 ;
+		padding: 4em 0 0.1em 0 ;
 	}
 
 		#header .logo {
@@ -2850,13 +2850,13 @@ input, select, textarea {
 			}
 
 			#header .logo .symbol {
-				margin-right: 0.65em;
+				margin: 0 2.5em 0 0;
 			}
 
 				#header .logo .symbol img {
 					display: block;
-					width: 2em;
-					height: 2em;
+					width: 4em;
+					height: 4em;
 				}
 
 		#header nav {
